@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T15:45:38.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l-9DU_9stwPQAX3AZLA2" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T15:47:32.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wP0gqoZBhSESNuLrm8DR" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="-146" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -478,12 +478,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-70" value="CAG" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="-600" width="350" height="90" as="geometry">
+          <mxGeometry x="1800" y="-600" width="400" height="90" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="IQdVZlTppCyThyp3Urzk-70" vertex="1">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-72" value="URL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="IQdVZlTppCyThyp3Urzk-71" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -492,13 +492,13 @@
         </mxCell>
         <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CAG" link="https://usaf.dps.mil/sites/ussf-starcom/" id="IQdVZlTppCyThyp3Urzk-73">
           <mxCell style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="IQdVZlTppCyThyp3Urzk-71" vertex="1">
-            <mxGeometry x="30" width="320" height="30" as="geometry">
-              <mxRectangle width="320" height="30" as="alternateBounds" />
+            <mxGeometry x="30" width="370" height="30" as="geometry">
+              <mxRectangle width="370" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="IQdVZlTppCyThyp3Urzk-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="IQdVZlTppCyThyp3Urzk-70" vertex="1">
-          <mxGeometry y="60" width="350" height="30" as="geometry" />
+          <mxGeometry y="60" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-75" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="IQdVZlTppCyThyp3Urzk-74" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -506,8 +506,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-76" value="Sandbox" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="IQdVZlTppCyThyp3Urzk-74" vertex="1">
-          <mxGeometry x="30" width="320" height="30" as="geometry">
-            <mxRectangle width="320" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="370" height="30" as="geometry">
+            <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQdVZlTppCyThyp3Urzk-90" value="FM" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
@@ -623,12 +623,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-1" value="AO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-920" width="350" height="60" as="geometry">
+          <mxGeometry x="1800" y="-920" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-1">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-3" value="URL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-2">
           <mxGeometry width="30" height="30" as="geometry">
@@ -637,68 +637,68 @@
         </mxCell>
         <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/AO" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-4">
           <mxCell style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-2">
-            <mxGeometry x="30" width="320" height="30" as="geometry">
-              <mxRectangle width="320" height="30" as="alternateBounds" />
+            <mxGeometry x="30" width="370" height="30" as="geometry">
+              <mxRectangle width="370" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-8" value="CAG" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-840" width="350" height="60" as="geometry">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-8" value="Aide-de-Camp" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-840" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-8">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-10" value="URL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-9">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CAG" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-11">
+        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/Aide-de-Camp" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-11">
           <mxCell style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-9">
-            <mxGeometry x="30" width="320" height="30" as="geometry">
-              <mxRectangle width="320" height="30" as="alternateBounds" />
+            <mxGeometry x="30" width="370" height="30" as="geometry">
+              <mxRectangle width="370" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-12" value="CAG" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-760" width="350" height="60" as="geometry">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-12" value="CoS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-760" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-12">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-14" value="URL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-13">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CAG" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-15">
+        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CoS" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-15">
           <mxCell style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-13">
-            <mxGeometry x="30" width="320" height="30" as="geometry">
-              <mxRectangle width="320" height="30" as="alternateBounds" />
+            <mxGeometry x="30" width="370" height="30" as="geometry">
+              <mxRectangle width="370" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-16" value="CAG" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-680" width="350" height="60" as="geometry">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-16" value="CC" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-680" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-16">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-18" value="URL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-17">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CAG" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-19">
+        <UserObject label="https://usaf.dps.mil/sites/ussf-starcom/HQ/CC" link="https://usaf.dps.mil/sites/ussf-starcom/" id="JbaavN1Iv-P8oyHkX93V-19">
           <mxCell style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="JbaavN1Iv-P8oyHkX93V-17">
-            <mxGeometry x="30" width="320" height="30" as="geometry">
-              <mxRectangle width="320" height="30" as="alternateBounds" />
+            <mxGeometry x="30" width="370" height="30" as="geometry">
+              <mxRectangle width="370" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
