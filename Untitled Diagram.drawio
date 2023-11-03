@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T14:57:13.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JLlFSgRXuHFP_txWl7-L" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T15:00:48.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KMM-3NiblSQ3F0jl7SAl" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="226" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -543,7 +543,7 @@
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQdVZlTppCyThyp3Urzk-107" value="KM" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="IQdVZlTppCyThyp3Urzk-107" value="Knowledge Management (KM)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="180" width="400" height="90" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -576,7 +576,7 @@
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQdVZlTppCyThyp3Urzk-124" value="S1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="IQdVZlTppCyThyp3Urzk-124" value="S1 - Human Capital" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="610" width="400" height="120" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -742,7 +742,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-28" value="CCF" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-28" value="First Sergeant (CCF)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="-220" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -762,7 +762,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-32" value="HO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-32" value="Historian (HO)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="-140" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -802,7 +802,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-40" value="IG" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-40" value="Inspector General (IG)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="20" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -822,7 +822,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-51" value="JA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-51" value="Judge Advocate General (JA)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="100" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -842,7 +842,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-55" value="CR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-55" value="Reserve Advisor (CR)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="530" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -862,7 +862,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-59" value="PA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-59" value="Public Affairs (PA)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="450" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -882,9 +882,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-63" value="CCP" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-63" value="Protocol (CCP)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="370" width="400" height="60" as="geometry">
-            <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
+            <mxRectangle x="1800" y="370" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbaavN1Iv-P8oyHkX93V-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="JbaavN1Iv-P8oyHkX93V-63" vertex="1">
@@ -902,7 +902,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="JbaavN1Iv-P8oyHkX93V-67" value="MA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="JbaavN1Iv-P8oyHkX93V-67" value="Mobilization Assistant (MA)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="290" width="400" height="60" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -922,7 +922,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="l0UKI0B7s-KCxzoERKxR-1" value="S23" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="l0UKI0B7s-KCxzoERKxR-1" value="S2/3 - Mission Operations" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="750" width="400" height="330" as="geometry">
             <mxRectangle x="870" y="70" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
